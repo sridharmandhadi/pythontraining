@@ -7,7 +7,10 @@ def f1():
 def f2():
     a=50
     print (a)
+	
+def f3(): a=100;print(a)
 
 f1()
 f2()
+f3()
 
